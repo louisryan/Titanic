@@ -3,7 +3,9 @@ A statistical analysis of the Kaggle Challenge to predict survival and death of 
 
 ----------------------------------
 
-####To view analysis, click [this link](http://nbviewer.ipython.org/github/louisryan/Titanic/blob/master/Titanic%20-%20Machine%20Learning%20from%20Disaster.ipynb) to view a static version of the iPython notebook. If you don't know what an iPython notebook is, it's a web-based interactive computational environment where you can combine code execution, text, mathematics, plots and rich media into a single document. It lends itself well to the iterative process that is Data Analysis.
+####To view analysis, click [this link](http://nbviewer.ipython.org/github/louisryan/Titanic/blob/master/Titanic%20-%20Machine%20Learning%20from%20Disaster.ipynb) to view a static version of the iPython notebook. 
+
+If you don't know what an iPython notebook is, it's a web-based interactive computational environment where you can combine code execution, text, mathematics, plots and rich media into a single document. It lends itself well to the iterative process that is Data Analysis.
 
 ###Kaggle Competition | Titanic Machine Learning from Disaster
 
